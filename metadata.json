@@ -1,0 +1,14 @@
+{
+    "id": "redclock",
+    "name": "Red Clock",
+    "shortName": "Red Clock",
+    "version": "1.0.0",
+    "description": "A red-themed digital clock",
+    "icon": "app.png",
+    "tags": "clock,red",
+    "supports": ["BANGLEJS2"],
+    "storage": [
+      {"name":"redclock.app.js","url":"redclock.app.js"}
+    ]
+  }
+  
