@@ -48,6 +48,3 @@ TannerVoltageOfficial
 
 ## Support
 For issues or feature requests, please open a GitHub issue.
-
----
-Answer from Perplexity: pplx.ai/share
